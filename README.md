@@ -116,4 +116,6 @@
 
 ### CAD
 
+- [Forma3D](https://forma3d.app) - iOS/iPadOS 3D modeling and STL/3MF mesh editing app for 3D printing
+
 
